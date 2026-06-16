@@ -14,7 +14,7 @@
 
 ---
 
-I'm an independent **Magento (Adobe Commerce)** consultant based in **Dubai, UAE** 🇦🇪, working remotely with merchants, implementation agencies and in-house teams worldwide.
+I'm an independent **Magento (Adobe Commerce)** consultant from **Poland** 🇵🇱 based in **Dubai, UAE** 🇦🇪, working remotely with merchants, implementation agencies and in-house teams worldwide.
 
 ### 🛠️ What I do
 
